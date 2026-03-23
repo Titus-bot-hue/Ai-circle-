@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=FF0000&background=000000&center=true&vCenter=true&width=600&lines=🚀+AMOS+BOT+Quantum+Edition;🔥+WhatsApp+Bot;💻+By+" alt="TypinAMOSg Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=FF0000&background=000000&center=true&vCenter=true&width=600&lines=🚀+TITUS+BOT+Quantum+Edition;🔥+WhatsApp+Bot;💻+By+Titus+Mutuku" alt="Typing Animation">
 </h1>
 
 <!-- Banner Image -->
@@ -13,10 +13,10 @@
 </p>
 ---
 
-## 📌 **How to Connect AMOS-BOT Quantum Edition**
+## 📌 **How to Connect TITUS-BOT Quantum Edition**
 
 ### **Step 1: Get Session ID**
-To connect AMOS-BOT Quantum Edition, you need to generate a WhatsApp session ID. Follow the link below to quickly generate your session ID:
+To connect TITUS-BOT Quantum Edition, you need to generate a WhatsApp session ID. Follow the link below to quickly generate your session ID:
 
 <p align="center">
   <a href="https://main.titusbot.online/scanner" target="_blank">
@@ -30,7 +30,7 @@ Before deployment, configure your bot:
 - **Option B:** Use environment variables on your hosting platform for easier management.
 
 ### **Step 3: Choose Hosting Platform**
-Deploy the bot on your preferred platform. AMOS-BOT Quantum Edition supports the following hosting services:
+Deploy the bot on your preferred platform. TITUS-BOT Quantum Edition supports the following hosting services:
 
 <p align="center">
   <a href="https://render.com" target="_blank">
@@ -49,7 +49,7 @@ Deploy the bot on your preferred platform. AMOS-BOT Quantum Edition supports the
 <!-- 🎥 VIDEO TUTORIAL - GitHub README Compatible -->
 <p align="center">
   <strong>🎬 Watch Full Deployment Tutorial (2026)</strong><br>
-  <em>How to deploy AMOS-BOT Quantum Edition on its own hosting — No Deployer Needed!</em>
+  <em>How to deploy TITUS-BOT Quantum Edition on its own hosting — No Deployer Needed!</em>
 </p>
 
 <p align="center">
@@ -68,15 +68,15 @@ Deploy the bot on your preferred platform. AMOS-BOT Quantum Edition supports the
 
 <!-- Glowing Header -->
 <p align="center">
-  <img src="AMOS-BOT-Quantum.jpg" width="400" height="400" style="border-radius:50%; box-shadow:0 0 25px #00ffea;">
+  <img src="TITUS-BOT-Quantum.jpg" width="400" height="400" style="border-radius:50%; box-shadow:0 0 25px #00ffea;">
 </p>
 
 <h1 align="center" style="color:#00ffea;">
-  ⚡ AMOS-BOT Quantum Edition ⚡
+  ⚡ TITUS-BOT Quantum Edition ⚡
 </h1>
 
 <p align="center">
-  🔥 The Ultimate WhatsApp Multi-Device Bot — by <b>AMOS</b>
+  🔥 The Ultimate WhatsApp Multi-Device Bot — by <b>Titus Mutuku</b>
 </p>
 
 <!-- Animated Tagline -->
@@ -98,7 +98,7 @@ Deploy the bot on your preferred platform. AMOS-BOT Quantum Edition supports the
 
 ---
 
-<h2 align="center">🚀 Deploy AMOS-BOT Quantum Edition</h2>
+<h2 align="center">🚀 Deploy TITUS-BOT Quantum Edition</h2>
 <p align="center">
   <a href="https://render.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Deploy%20on%20Render-000000?style=for-the-badge&logo=render&logoColor=white&color=61DAFB" width="260" height="50"/>
