@@ -13,10 +13,10 @@
 </p>
 ---
 
-## 📌 **How to Connect TITUS-BOT Quantum Edition**
+## 📌 **How to Connect AMOS-BOT Quantum Edition**
 
 ### **Step 1: Get Session ID**
-To connect TITUS-BOT Quantum Edition, you need to generate a WhatsApp session ID. Follow the link below to quickly generate your session ID:
+To connect AMOS-BOT Quantum Edition, you need to generate a WhatsApp session ID. Follow the link below to quickly generate your session ID:
 
 <p align="center">
   <a href="https://main.titusbot.online/scanner" target="_blank">
@@ -30,7 +30,7 @@ Before deployment, configure your bot:
 - **Option B:** Use environment variables on your hosting platform for easier management.
 
 ### **Step 3: Choose Hosting Platform**
-Deploy the bot on your preferred platform. TITUS-BOT Quantum Edition supports the following hosting services:
+Deploy the bot on your preferred platform. AMOS-BOT Quantum Edition supports the following hosting services:
 
 <p align="center">
   <a href="https://render.com" target="_blank">
