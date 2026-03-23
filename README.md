@@ -13,7 +13,7 @@
 </p>
 ---
 
-## 📌 **How to Connect TITUS-BOT Quantum Edition**
+## 📌 **How to Connect AMOS-BOT Quantum Edition**
 
 ### **Step 1: Get Session ID**
 To connect AMOS-BOT Quantum Edition, you need to generate a WhatsApp session ID. Follow the link below to quickly generate your session ID:
