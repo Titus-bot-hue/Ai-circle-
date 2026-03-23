@@ -1,6 +1,6 @@
 <!-- Glowing Header -->
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+  <img src="https://photos.app.goo.gl/jixb2Quj7b7z5gS9A" height="40" width="100%">
 </p>
 
 <h1 align="center">
