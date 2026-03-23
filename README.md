@@ -30,7 +30,7 @@ Before deployment, configure your bot:
 - **Option B:** Use environment variables on your hosting platform for easier management.
 
 ### **Step 3: Choose Hosting Platform**
-Deploy the bot on your preferred platform. TITUS-BOT Quantum Edition supports the following hosting services:
+Deploy the bot on your preferred platform. AMOS-BOT Quantum Edition supports the following hosting services:
 
 <p align="center">
   <a href="https://render.com" target="_blank">
@@ -68,15 +68,15 @@ Deploy the bot on your preferred platform. TITUS-BOT Quantum Edition supports th
 
 <!-- Glowing Header -->
 <p align="center">
-  <img src="TITUS-BOT-Quantum.jpg" width="400" height="400" style="border-radius:50%; box-shadow:0 0 25px #00ffea;">
+  <img src="AMOS-BOT-Quantum.jpg" width="400" height="400" style="border-radius:50%; box-shadow:0 0 25px #00ffea;">
 </p>
 
 <h1 align="center" style="color:#00ffea;">
-  ⚡ TITUS-BOT Quantum Edition ⚡
+  ⚡ AMOS-BOT Quantum Edition ⚡
 </h1>
 
 <p align="center">
-  🔥 The Ultimate WhatsApp Multi-Device Bot — by <b>Titus Mutuku</b>
+  🔥 The Ultimate WhatsApp Multi-Device Bot — by <b>AMOS</b>
 </p>
 
 <!-- Animated Tagline -->
